@@ -37,11 +37,7 @@ def HESAPLA():
         zaman = time.strftime('%x    SAAT %X')
         p = document.add_heading(level=0)
         p.add_run("""
-DÖĞME TURİSTİK TES.TİC.A.Ş.
-KAPIKULE EDİRNE
-BAKIRKÖY  VD.3110005742
-TEL: 0284 238 21 40
-TİCARET SİCİL NO:193232-140759
+//Fiş bilgileri
 {} 
 FIŞ NO: {}
                 {}
